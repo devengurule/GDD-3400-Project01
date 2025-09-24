@@ -1,0 +1,9 @@
+wander
+	if sheep get is attracted
+		walk slowly back to goal
+		once reach goal go back to wander
+repeat till all sheep are caught
+
+
+playfield is:
+	24.5 x 24.5
