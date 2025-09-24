@@ -407,8 +407,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spherePrefab: {fileID: 4295749154937028752, guid: 7640721cd140d124484b92b9ca1948f2, type: 3}
-  numOfSpheres: 50
-  cooldown: 10
+  maxSpheres: 1000
+  cooldown: 0.01
 --- !u!4 &224777503
 Transform:
   m_ObjectHideFlags: 0
